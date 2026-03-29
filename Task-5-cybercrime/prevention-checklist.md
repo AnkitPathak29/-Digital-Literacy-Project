@@ -20,7 +20,7 @@
 
 🚨 Report Cybercrime
 -
-✔️Report incidents at the National Cyber Crime Portal: https://cybercrime.gov.in⁠�
+✔️Report incidents at the National Cyber Crime Portal: https://cybercrime.gov.in⁠
 
 ✔️Call Helpline: 1930 immediately in case of financial fraud
 
