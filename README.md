@@ -46,7 +46,7 @@ digital-literacy-project/
 │   ├── casestudy.md  
 │   └── prevention-checklist.md  
   
-##🧩 Task Summary  
+## 🧩 Task Summary  
   
 **🟢 Task 1: Digital Literacy Infographic**  
 Created a visual infographic using Canva  
@@ -85,7 +85,7 @@ Request for assignment extension
 Internship application email  
 Created:  
 
-##✅ Social Media Do’s & Don’ts checklist  
+## ✅ Social Media Do’s & Don’ts checklist  
 
 **🟢 Task 5: Cybercrime Awareness**  
 
